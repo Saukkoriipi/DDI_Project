@@ -8,7 +8,7 @@ This project is done for the course Distributed Data Infrastructure fall 2020. T
 #### Used datasets
 The dataset was released by Telecom Italia for their Open Big Data Challenge in 2014. It contains telecommunication records, weather, air quality, electricity consumption for city of Milan and province of Trentino in Italy in November and December 2013. You can find detailed description of the dataset from the paper: https://www.nature.com/articles/sdata201555.
 
-##### Project questions:
+#### Project questions:
 1. Find the most congested communication period of the day in Milan and Trentino.
 2. List top 5 Italian provinces which are most called by residents of Milan and Trentino on average.
 3. List top 5 languages tweeted by distinct users in Milan. How popular is Finnish as a tweeting language in Milan?
